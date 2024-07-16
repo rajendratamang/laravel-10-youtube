@@ -14,8 +14,7 @@ class ProductController extends Controller
     {
         //
         $products = Product::all();
-        die($products);
-        // die();
+        var_dump($products);
         die("this is index controller ");
     }
 
