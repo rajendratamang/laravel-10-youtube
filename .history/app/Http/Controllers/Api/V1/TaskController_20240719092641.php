@@ -64,6 +64,5 @@ class TaskController extends Controller
     {
         //
         $task->delete();
-        return response()->noContent();
     }
 }
