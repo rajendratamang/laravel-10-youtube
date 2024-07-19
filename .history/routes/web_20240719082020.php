@@ -19,4 +19,3 @@ Route::get('/', function () {
 });
 
 Route::get('/product', [ProductController::class, 'index']);
-Route::get('/product', [ProductController::class, 'index']);
