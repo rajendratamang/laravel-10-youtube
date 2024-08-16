@@ -52,4 +52,3 @@ surket
 
 surketsurket
 surket
-vai sak
