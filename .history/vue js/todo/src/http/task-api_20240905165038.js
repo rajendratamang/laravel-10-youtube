@@ -2880,5 +2880,5 @@ tamang
 tamang
 tamang
 
-tamangg
+tamang
 g 
